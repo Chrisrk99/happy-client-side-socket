@@ -1,0 +1,13 @@
+2022-09-30 19:37:12,576[INFO ]  Command Line Args - IP: 34.135.30.188 Port: 3389 Logfile: logfile
+
+2022-09-30 19:37:12,576[INFO ]  Trying to connect to 34.135.30.188:3389
+
+2022-09-30 19:37:18,987[INFO ]  Waiting for server reply...
+
+2022-09-30 19:37:19,016[INFO ]  Received reply from Server.
+
+2022-09-30 19:37:19,016[INFO ]  Hello there ('68.234.181.24', 54523). Here is another random quote of wisdom for you:As always, I'll leave it to a volunteer to experiment with this., Guido van Rossum, 20 Jan 1995
+
+
+2022-09-30 19:37:19,016[INFO ]  Closing connection.
+
