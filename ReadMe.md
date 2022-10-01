@@ -41,9 +41,3 @@ optional arguments:
 
 Example Execution: 
 python3 client.py -s <server_ip> -p <port_#> -l <log_file_location>
-
-### Issues
-Connecting to the server and port was troublesome as it wasn't open from 7pm to 9pm as listed.
-
-### Suggestions and Feedback
-This was a super fun project and I really enjoyed being able to be able to create a client network. I'd love to have more projects like this that might build off of this in complexity.
